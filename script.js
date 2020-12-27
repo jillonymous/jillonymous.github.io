@@ -1,3 +1,3 @@
 let d = new Date();
 
-alert("Today is " + d);
+document.body.innerHTML = alert("Today is " + d);
